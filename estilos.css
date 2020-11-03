@@ -1,0 +1,32 @@
+body{
+	font-family: arial, verdana, tahoma;
+	}	
+h1{
+	color: #FE2E9A;
+	text-align:center;
+}
+h2{
+	 color: #CC2EFA;
+}
+p {
+	text-align:justify;
+}
+.color_verde{
+   color: #31B404;
+   font-style: italic;
+   font-weight: bold;
+}
+.destacado{
+color:#FF4000;
+text-align:right;
+	}
+.tamaño {
+	font-size: large;
+color:#FF4000;
+	}
+.link_resaltado{
+	color:#F7BE81;
+	font-weight: bold;
+	text-decoration: none
+	}
+	
